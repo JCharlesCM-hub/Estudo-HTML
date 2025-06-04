@@ -1,3 +1,22 @@
+Grupo Facebook - HTML Impressionador
+https://www.facebook.com/groups/615963560411896
+
+-----------------------------------
+Curso de HTML e CSS com o Tailwind CSS
+
+Link
+Curso de Tailwind CSS | Programação do ZERO ao ...
+https://www.youtube.com/watch?v=SUavcwCCLN8
+
+-----------------------------------
+
+Documentação do CSS
+
+Site do MDN CSS
+https://developer.mozilla.org/pt-BR/docs/Web/CSS
+
+-----------------------------------
+
 /* 
 Instalar o NODE.js
 Executar o NODE.js:
